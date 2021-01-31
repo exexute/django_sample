@@ -1,5 +1,5 @@
 # django_sample
-> django中特性的使用example，用于记录学习Django特性的代码。
+> 使用django中特性的开发的example，用于记录学习Django的特性
 
 <p align="center">
     <a href="https://github.com/exexute/django_sample/blob/master/LICENSE">
