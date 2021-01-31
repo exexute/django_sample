@@ -1,7 +1,7 @@
 # django_sample
 > 使用django中特性的开发的example，用于记录学习Django的特性
 
-<p align="center">
+<p>
     <a href="https://github.com/exexute/django_sample/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/exexute/django_sample.svg" alt="GitHub">
     </a> 
