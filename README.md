@@ -4,7 +4,7 @@
 <p>
     <a href="https://github.com/exexute/django_sample/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/exexute/django_sample.svg" alt="GitHub">
-    </a> 
+    </a>
     <a href="#">
       <img src="https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey">
     </a>
@@ -18,3 +18,4 @@
 
 ## Examples
 - [django中日志的使用 - log_sample_normal](https://exexute.github.io/2021/01/31/Django%E4%B9%8B%E4%BC%98%E9%9B%85%E7%9A%84%E4%BD%BF%E7%94%A8logging/)
+- [django中分页类Paginator的使用 - paginator_example](https://exexute.github.io/2021/02/04/Django%E4%B9%8B%E4%BC%98%E9%9B%85%E7%9A%84%E4%BD%BF%E7%94%A8%E5%88%86%E9%A1%B5/)
