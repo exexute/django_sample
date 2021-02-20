@@ -39,10 +39,10 @@ LOGGING = {
             'level': 'INFO',
             'propagate': False,
         },
-        'django': {
-            'handlers': ['console', 'django.server'],
-            'level': 'DEBUG',
-            'propagate': False,
-        },
+        # 'django': {
+        #     'handlers': ['console', 'django.server'],
+        #     'level': 'DEBUG',
+        #     'propagate': False,
+        # },
     }
 }
