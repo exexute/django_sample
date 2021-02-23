@@ -7,5 +7,5 @@ from django.test import TestCase
 def my_callback(sender, **kwargs):
     print('request finished!')
 
-
+#
 Signal.connect(my_callback, )
