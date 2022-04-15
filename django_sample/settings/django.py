@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'system_check',
     'account',
-    'signals_example.apps.SignalsExampleConfig',
+    'dongtai_signals',
+    'access_log',
 ]
 
 MIDDLEWARE = [

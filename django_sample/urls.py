@@ -19,7 +19,8 @@ from django.urls import include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('account/', include('django.contrib.auth.urls')),
     path('log/', include('log_sample_normal.urls')),
     path('paginator/', include('paginator_example.urls')),
-    path('signals/', include('signals_example.urls')),
+    path('signals/', include('dongtai_signals.urls')),
 ]
